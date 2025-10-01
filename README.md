@@ -99,4 +99,4 @@ We welcome contributions to enhance Lotus. Please refer to our [CONTRIBUTING.md]
 ---
 ## Authors 
 This repository was built with ❤️ by:<br>
-<a href="https://github.com/NadaMarei">- Nada Marei</a>  <a href="">- Mariam </a> <a href="">- Mostafa</a> <a href="">- Nader </a> <a href="">- Mostafa</a> <a href="">- Adham </a> <a href="">- Mostafa</a>
+<a href="https://github.com/NadaMarei">- Nada Marei</a>  <a href="">- Mariam </a> <a href=""> - Mostafa</a> <a href=""> - Nader </a> <a href="">- Adham </a> 
