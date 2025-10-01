@@ -66,8 +66,7 @@ Experience the power of Lotus firsthand:
 ## 📢 Stay Connected
 
 * **Website:** [https://lotusplatform.pythonanywhere.com/](https://lotusplatform.pythonanywhere.com/)
-* **Contact:** [Email Us](mailto:contact@lotusplatform.com)
-* **Social Media:** [Facebook](https://facebook.com/lotusplatform) | [Twitter](https://twitter.com/lotusplatform)
+* **Contact:** [Email Us](nadamarey24@gmail.com)
 
 ---
 
