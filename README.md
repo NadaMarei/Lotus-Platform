@@ -17,7 +17,7 @@
 
 ## 🛠 Products
 
-* **Lotus Analyzer:** Comprehensive tool for qualitative and quantitative data analysis.
+* **Lotus Analyzer:** Comprehensive tool for qualitative, quantitative data analysis and more.
 * **Lotus Visualizer:** Dynamic visualization suite to present analytical results effectively.
 * **Lotus Collaborator:** Facilitates seamless collaboration among research teams and stakeholders.
 
