@@ -1,12 +1,3 @@
-[![Admin Panel | Admin Template | Admin Dashboard UI Kit](https://tse2.mm.bing.net/th/id/OIP.9E8ztHyaFERPCXytJs69PAHaLH?pid=Api)](https://multipurposethemes.com/blog/__trashed-173/?utm_source=chatgpt.com)
-
-# Lotus Platform
-
-**AI-Powered Data Analysis for the Arab World**
-
-[![Lotus Platform](https://lotusplatform.pythonanywhere.com/static/images/logo.png)](https://lotusplatform.pythonanywhere.com/)
-
----
 
 ## 🚀 Overview
 
