@@ -84,7 +84,7 @@ We welcome contributions to enhance Lotus. Please refer to our [CONTRIBUTING.md]
 
 ## 📸 Screenshots
 
-![Lotus Dashboard](https://lotusplatform.pythonanywhere.com/static/images/intro.mp4)
+![Lotus Dashboard](https://github.com/NadaMarei/Lotus-Platform/blob/main/project/static/img/intro.mp4)
 
 *Explore the intuitive and user-friendly Lotus dashboard.*
 
