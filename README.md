@@ -81,22 +81,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 We welcome contributions to enhance Lotus. Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started.
 
 ---
-
-## 📸 Screenshots
-
-![Lotus Dashboard](https://github.com/NadaMarei/Lotus-Platform/blob/main/project/static/img/intro.mp4)
-
-*Explore the intuitive and user-friendly Lotus dashboard.*
-
-![Data Visualization](https://lotusplatform.pythonanywhere.com/static/images/visualization.png)
-
-*Visualize your data insights with dynamic charts and graphs.*
-
----
-
 **Lotus** – Empowering research, analysis, and decision-making in the Arab world with AI-driven insights.
 
 ---
 ## Authors 
 This repository was built with ❤️ by:<br>
-<a href="https://github.com/NadaMarei">- Nada Marei</a>  <a href="">- Mariam </a> <a href=""> - Mostafa</a> <a href=""> - Nader </a> <a href="">- Adham </a> 
+<a href="https://github.com/NadaMarei">- Nada Marei</a>  <a href="">- Mariam Ahmed </a> <a href=""> - Mostafa Qapil </a> <a href=""> - Nader Ibrahim </a> <a href="">- Adham Mohamed</a> 
