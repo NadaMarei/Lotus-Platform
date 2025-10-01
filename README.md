@@ -97,3 +97,6 @@ We welcome contributions to enhance Lotus. Please refer to our [CONTRIBUTING.md]
 **Lotus** – Empowering research, analysis, and decision-making in the Arab world with AI-driven insights.
 
 ---
+## Authors 
+This repository was built with ❤️ by:<br>
+<a href="https://github.com/NadaMarei">- Nada Marei</a>  <a href="">- Mariam </a> <a href="">- Mostafa</a> <a href="">- Nader </a> <a href="">- Mostafa</a> <a href="">- Adham </a> <a href="">- Mostafa</a>
