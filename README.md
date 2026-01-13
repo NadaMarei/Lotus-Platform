@@ -196,6 +196,6 @@ Lotus Platform is an advanced AI-powered qualitative, quantitative, and mixed da
 
 ## Authors 
 This repository was built with ❤️ by:<br>
-<a href="https://github.com/NadaMarei">- Nada Marei</a>  <a href="">- Mariam Ahmed </a>  <a href="https://github.com/mostafaqapil"> - Mostafa Qapil </a>  <a href="https://github.com/nader590"> - Nader Ibrahim </a>  <a href="https://github.com/adhamhe6">- Adham Mohamed</a> 
+<a href="https://github.com/NadaMarei"> Nada Marei</a>  
 
 *© 2025 Lotus Platform. All rights reserved.*
